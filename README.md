@@ -16,7 +16,7 @@ Supports contextual conversations with PDF document upload and retrieval-based r
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Backend**: Django, Django REST Framework, SimpleJWT
 - **AI Stack**: LangChain, Ollama, ChromaDB, PyPDFLoader
